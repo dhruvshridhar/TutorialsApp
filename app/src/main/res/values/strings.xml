@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Tutorials App</string>
+    <string name="engsub">Engineering is the application of science and math to solve problems. Engineers figure out how things work and find practical uses for scientific discoveries. Scientists and inventors often get the credit for innovations that advance the human condition, but it is engineers who are instrumental in making those innovations available to the world.
+
+In his book, Disturbing the Universe (Sloan Foundation, 1981), physicist Freeman Dyson wrote, A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering.
+
+The history of engineering is part and parcel of the history of human civilization. The Pyramids of Giza, Stonehenge, the Parthenon and the Eiffel Tower stand today as monuments to our heritage of engineering. Todays engineers not only build huge structures, such as the International Space Station, but they are also building maps to the human genome and better, smallercomputer chips.</string>
+    <string name="medsub">Biomedical engineering is the application of the principles and problem-solving techniques of engineering to biology and medicine. This is evident throughout healthcare, from diagnosis and analysis to treatment and recovery, and has entered the public conscience though the proliferation of implantable medical devices, such as pacemakers and artificial hips, to more futuristic technologies such as stem cell engineering and the 3-D printing of biological organs.
+
+Engineering itself is an innovative field, the origin of ideas leading to everything from automobiles to aerospace, skyscrapers to sonar. Biomedical engineering focuses on the advances that improve human health and health care at all levels.
+
+Biomedical engineers differ from other engineering disciplines that have an influence on human health in that biomedical engineers use and apply an intimate knowledge of modern biological principles in their engineering design process. Aspects of mechanical engineering, electrical engineering, chemical engineering, materials science, chemistry, mathematics, and computer science and engineering are all integrated with human biology in biomedical engineering to improve human health, whether it be an advanced prosthetic limb or a breakthrough in identifying proteins within cells.</string>
+    <string name="iassub">IAS is the short form of Indian Administrative Service.
+
+It is one of the prestigious services among the 24 services like IPS, IFS etc for the which the UPSC conducts Civil Services Examination (CSE) for selecting the candidates.
+
+An officer selected into the Indian Administrative Service gets exposure in very diverse roles like the collector, commissioner, head of public sector units, chief secretary, cabinet secretary etc.
+
+Not only the experience and challenges but also the scope of making positive changes in the life of millions in India makes IAS a unique career choice.
+
+Salary: The basic pay of entry level IAS officers is Rs.56100. The salary of civil servants (Salary = Basic Pay + DA + TA + HRA) will increase as experience increases. The basic pay of Cabinet Secretary is fixed at Rs.2,50,000.
+
+</string>
+    <string name="cbsesub">The Central Board of Secondary Education (CBSE) is a national level board of education in India for public and private schools, controlled and managed by Union Government of India. CBSE has asked all schools affiliated to follow only NCERT curriculum.[2] There are approximately 20,299 schools in India and 220 schools in 28 foreign countries affiliated to the CBSE</string>
+    <string-array name="topiceng">"Python","Java","Android","C++","Artificial Intelligence","Machine
+        Learning","Web Development","iOS Dev"
+    </string-array>
+    <string-array name="topicmed">"Electronic Health Records",
+        "Exercise and Sports Medicine",
+        "Genomic Medicine",
+        "Geriatrics",
+        "Health Diversity",
+        "Healthcare Reform and the ACA",
+        "Medicine 3.0",
+        "Nutrition",
+        "Palliative Care",
+        "Patient Safety",
+        "Sleep Disorders",
+        "Substance Abuse and Addiction"
+    </string-array>
+    <string-array name="iastopic">Aadhaar and Privacy issues,
+        The ban on cow slaughter/ Beef Ban,
+        Cashless Economy,
+        Economic growth Vs Environmental conservation,
+        Election Funding,
+        Free Speech: Rights and Limits,
+        Frequent promulgation of Ordinance,
+        Full statehood to Delhi: Should it be granted or not?,
+        Interstate water disputes: Focus on Cauvery Water Dispute,
+        Judicial activism and judicial Overreach,
+        Judicial appointment: Collegium Vs NJAC,
+        Kashmir Unrest,
+        Media freedom and Responsible reporting,
+        Muslim Personal law: Polygamy/ Triple talaq,
+        Nationalism vs Regionalism,
+        NGOs and Development/ Crackdown on NGOs,
+        Dalit assertion and Politics of reservation,
+        Restriction on the entry of women in places of worship,
+        Should India spend more on science or Social welfare?,
+        Supreme Court judgement on Caste, Religion in Polls,
+        Parliamentary disruptions,
+        Uniform civil code
+    </string-array>
+    <string name="title_activity_navigationactivity">navigationactivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_coursewith_nav">CoursewithNav</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="the_tutorials_app_caters_to_the_learning_needs_of_students_for_classes_iv_xii_from_cbse_icse_and_leading_state_boards_meritnation_s_online_correspondence_courses_cater_to_students_from_classes_1st_to_12th_in_subjects_such_as_maths_science_and_english_for_cbse_icse_and_other_leading_state_boards"><![CDATA[The Tutorials App caters to the learning needs of students for classes IV-XII from CBSE, ICSE and leading state boards. Meritnation’s online & correspondence courses cater to students from classes 1st to 12th in subjects such as Maths, Science and English for CBSE, ICSE and other leading State Boards.]]></string>
+</resources>
